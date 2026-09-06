@@ -1,0 +1,1 @@
+The repo contain documentation and details relating to bug fixes done by Steve for the open source Pi project.
