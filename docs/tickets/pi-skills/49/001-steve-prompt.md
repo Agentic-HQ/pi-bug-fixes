@@ -20,10 +20,13 @@ which I suspect may apply to this pi-skills repo, and so I'd like to respect tha
 
 This is my first time contributing, so I will need to spend some time working to understand how the project works. I am a developer familiar with Typescript, but not an expert, and so will need some of the basics explained to me please when considering the options for fixing this.
 
-Please investigate the bug, the way the two repos are set up for dependency management (how they avoid security issues like this in dependencies), how this is normally handled by open source projects like this, and then write a report for me to read that includes this and your recommendations (not a final fix, yet) at:
+Please investigate the bug, the way the two repos are set up for dependency management (how they avoid security issues like this in dependencies), how this is normally handled by open source projects like this (include references to a couple or a few web pages pls), and then write a report for me to read that includes this and your recommendations (not a final fix, yet) at:
 
 002-claude-report.md
 
-I'm hoping to be able to read this report in approx 15 minutes (or less?) so it cant'b be too detailed.
+I'm hoping to be able to read this report in approx 15 minutes (or less?) so it can't be too detailed.
 Please include a TLDR Summary at the top and clickable TOC.
+
+Any questions before you start? Please put them here with a placeholder for my answer and wait for me to fill them in.
+
 Thanks.
